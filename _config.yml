@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "Arefe Damirchi"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Armechi" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : soyarie
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,15 +108,15 @@ analytics:
 # Site Author
 author:
   name             : "Arefe Damirchi"
-  avatar           : "F:/Arie/B612_20220228_130230_204"
+  avatar           : "/assets/images/arefe/Screenshot (3).png"
   bio              : I'm 18.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  email            : arefe.damirchi2005@gmail.com
+  twitter: soyarie
+  linkedin:
+  google_scholar:
+  github: 
+  instagram: armeechi
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
