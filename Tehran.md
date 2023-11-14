@@ -11,10 +11,10 @@ comments: false
 ### Here are some places you can visit in Tehran
 
 - Tabiaat Bridge
-[bridge](https://maysagharehgozli.github.io/assets/images/arefe/pol.jpg)
+[bridge](assets/images/arefe/pol.jpg)
 
 - Iran Mall
-[mall](https://maysagharehgozli.github.io/assets/images/arefe/mall.jpg)
+[mall](assets/images/arefe/mall.jpg)
 
 
 
