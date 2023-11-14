@@ -10,8 +10,6 @@ main:
     url: /apps/
   - title: "IUST"
     url: /iust/  
-  - title: "Hobbies"
-    url: /hobbies/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
