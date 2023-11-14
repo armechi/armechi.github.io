@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Arefe Damirchi"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Armechi" 
 description              : "Welcome to my web site."
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Arefe Damirchi"
   avatar           : "/assets/images/arefe/Screenshot (3).png"
-  bio              : I'm 18.
+  bio              : Freshman CE student at IUST. a full-time reader.
   location         : "تهران"
   email            : arefe.damirchi2005@gmail.com
   twitter: soyarie
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/Armechi"
 
 # Site Footer
 footer:

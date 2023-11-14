@@ -1,32 +1,36 @@
 ---
 layout: single
 author_profile: true
-permalink: /gallery/
-title: Gallery
-tags: [gallery]
-modified: 9-14-2019
+permalink: /IUST/
+title: IUST
+tags: [IUST]
+modified: 11-9-2019
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/arefe/photo1.jpeg
+    image_path: /assets/images/arefe/photo1.jpeg
+    alt: "photo 1"
     title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
-    alt: "placeholder image 2"
+  - url: /assets/images/arefe/photo2.jpeg
+    image_path: /assets/images/arefe/photo2.jpeg
+    alt: "photo 2"
     title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/arefe/photo3.jpeg
+    image_path: /assets/images/arefe/photo3.jpeg
+    alt: "photo 3"
     title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
-    alt: "placeholder image 4"
+  - url: /assets/images/arefe/photo4.jpeg
+    image_path: /assets/images/arefe/photo4.jpeg
+    alt: "photo 4"
     title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
-    alt: "placeholder image 5"
+  - url: /assets/images/arefe/photo5.jpeg
+    image_path: /assets/images/arefe/photo5.jpeg
+    alt: "photo 5"
     title: "Image 5 title caption"    
+  - url: /assets/images/arefe/photo6.jpeg
+    image_path: /assets/images/arefe/photo6.jpeg
+    alt: "photo 6"
+    title: "Image 6 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
