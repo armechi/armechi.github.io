@@ -9,9 +9,6 @@ comments: false
 ---
 
 ### Here are some places you can visit in Tehran
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
 
 - Tabiaat Bridge
 [bridge](https://maysagharehgozli.github.io/assets/images/arefe/pol.jpg)
