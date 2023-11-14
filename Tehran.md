@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Tehran/
+permalink: /tehran/
 title: My Homecity
 tags: [city, Tehran]
 modified: 11-9-2023
