@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Movies/
+permalink: /movies/
 title: Movies And Series Recommendation
 tags: [Movies, Series]
 modified: 11-9-2023
