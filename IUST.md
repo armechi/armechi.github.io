@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /IUST/
+permalink: /iust/
 title: IUST
 tags: [IUST]
 modified: 11-9-2019

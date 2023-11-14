@@ -2,18 +2,16 @@
 main:
   - title: "Tehran"
     url: /tehran/
-  - title: "Courses"
-    url: /courses/
-  - title: "Friends"
-    url: /friends/
-  - title: "Links"
-    url: /links/
+  - title: "Movies"
+    url: /movies/
+  - title: "songs"
+    url: /songs/
+  - title: "Apps"
+    url: /apps/
+  - title: "IUST"
+    url: /iust/  
   - title: "Hobbies"
-    url: /hobbies/  
-  - title: "Gallery"
-    url: /gallery/
-  - title: "Blog"
-    url: /blog/
+    url: /hobbies/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
