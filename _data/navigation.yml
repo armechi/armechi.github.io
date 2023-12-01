@@ -10,6 +10,8 @@ main:
     url: /apps/
   - title: "IUST"
     url: /iust/  
+  - title: "calendar"
+    url: /calendar/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
