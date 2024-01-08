@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: wide
 author_profile: true
 permalink: /tehran/
 title: My Homecity

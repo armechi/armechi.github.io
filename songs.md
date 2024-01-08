@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: wide
 author_profile: true
 permalink: /songs/
 title: songs
