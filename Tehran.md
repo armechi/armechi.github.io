@@ -16,5 +16,3 @@ comments: false
 - Iran Mall
 ![mall](assets/images/arefe/mall.jpg)
 
-
-
