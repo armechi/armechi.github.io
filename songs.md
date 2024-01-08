@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: search
 author_profile: true
 permalink: /songs/
 title: songs

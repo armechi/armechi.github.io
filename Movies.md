@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 author_profile: true
 permalink: /movies/
 title: Movies And Series Recommendation
